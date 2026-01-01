@@ -1,0 +1,41 @@
+# ---------------------------
+# Python virtual environments
+# ---------------------------
+venv/
+env/
+
+# ---------------------------
+# Python cache files
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---------------------------
+# Jupyter Notebook checkpoints
+# ---------------------------
+.ipynb_checkpoints/
+
+# ---------------------------
+# OS-specific files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# IDE/project settings
+# ---------------------------
+.vscode/
+.idea/
+
+# ---------------------------
+# Optional large datasets folder
+# ---------------------------
+data/
+
+# ---------------------------
+# Models (keep small models like water_demand_model.pkl)
+# ---------------------------
+# *.pkl  # commented out so model is included
+
