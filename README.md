@@ -54,29 +54,6 @@ Eco-Flow/
 
 ---
 
-## **Setup & Run Locally**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/Eco-Flow.git
-cd Eco-Flow
-````
-
-2. (Optional) Create virtual environment:
-
-```bash
-python -m venv venv
-source venv/Scripts/activate  # Windows
-# OR
-source venv/bin/activate      # Mac/Linux
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 4. Run the Streamlit dashboard:
 
@@ -84,16 +61,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-* The dashboard opens in your browser with interactive forecasts.
 
----
-
-## **Deployment**
-
-* Hosted on **Streamlit Cloud** for easy sharing.
-* Simply link your GitHub repo to Streamlit Cloud, select `app.py`, and deploy.
-
----
 
 ## **Impact**
 
