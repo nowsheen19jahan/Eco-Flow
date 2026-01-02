@@ -1,5 +1,5 @@
 
-# 🌊 Campus Water Dashboard
+#  Campus Water Dashboard
 
 **AI-Based Water Demand Forecasting for Campus Operations**  
 Category: Water Management | Difficulty: Intermediate-Advanced  
